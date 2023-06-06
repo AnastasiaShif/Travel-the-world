@@ -42,3 +42,28 @@
   color: #fff;
   font-size: 100px;
 }
+   
+@media screen and (max-width: 769px) {
+  
+.home,
+.services,
+.products,
+.sign-up {
+  font-size: 50px;
+}
+
+  
+
+}
+
+
+@media screen and (max-width: 960px) and (min-width: 769px) {
+  
+    .home,
+.services,
+.products,
+.sign-up {
+  font-size: 70px;
+  }
+};
+
