@@ -28,7 +28,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-container">
         <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-          4 seasons <FontAwesomeIcon icon="fa-solid fa-earth-asia" />
+          ASIA SEASONS <FontAwesomeIcon icon="fa-solid fa-earth-asia" />
         </Link>
         <div className="menu-icon" onClick={handleClick}>
           <FontAwesomeIcon
